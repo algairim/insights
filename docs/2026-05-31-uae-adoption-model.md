@@ -1,0 +1,7 @@
+# The UAE Model
+
+`2026 May 31`
+
+[Microsoft's May 2026 global AI diffusion report](disclaimer.md) contained one figure that broke clear of the pack: the UAE crossed 70.1% of its working-age population using AI — first in the world, ahead of Singapore at 60.9%, Norway at 46.4%, and substantially ahead of the US and most of Europe. The trajectory was steep: 59.4% in early 2025 to 70% by May 2026. Microsoft's framing was explicit — the leaders are the countries that invested early in three things: digital infrastructure, AI skilling, and government adoption. The UAE appointed the world's first Minister of State for AI in 2017 and built the governance and skilling infrastructure years before generative AI went mainstream. The reflex is to dismiss this as a small, wealthy petrostate buying its way up a leaderboard. The Gulf is full of wealthy economies that did not cross 70%. The UAE's lead is about sequence and intent.
+
+The lesson transfers directly to a five-person firm anywhere. The UAE did not out-adopt the West by having better AI — everyone accesses the same models. It out-adopted by treating adoption as a deliberate, resourced, top-down decision rather than an inevitability. Most businesses face the same fork. They can wait for AI to become automatic, or they can decide, name someone responsible, and engineer one process at a time. Microsoft's data shows the decision beats the drift at every scale. The divide widens fastest precisely where someone says: we are basically fine, we will get to it.

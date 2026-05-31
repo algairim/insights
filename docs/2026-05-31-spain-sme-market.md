@@ -1,0 +1,9 @@
+# The Spanish SME Market
+
+`2026 May 31`
+
+[A March 2026 Wolters Kluwer survey](disclaimer.md) found that 76% of Spanish SMEs use AI tools weekly or daily — not piloting, not exploring, but using as a matter of routine. 80% plan to increase AI investment over the next three years. Spain ranked first in Europe for the pressure firms feel to digitise and automate, with 24% naming it a top challenge for the year. This is a market that has stopped asking whether to adopt and started feeling the strain of having to. The assumption that Spain is a laggard waiting to be educated is simply wrong.
+
+The tension is in a second number. A CaixaBank Research study measuring the whole Spanish economy found that the smallest firms — the 10-to-49-staff band making up the overwhelming majority of Spanish businesses — sit below 9% actual AI adoption. Both figures are true because they measure different populations. Wolters Kluwer surveyed firms already engaged with tax and accounting software: a self-selecting, digitised slice. CaixaBank measured everyone. The 76% describes the firms that have arrived. The sub-9% describes the long tail that has not. The gap is not in whether Spain is ready. It is in what the majority still lacks: the integration layer that turns a tool list into a changed process.
+
+That integration gap defines the next phase of Spain's AI story. The firms in the arrived 76% have tools but not transformed processes. The global pattern repeats from Mexico to Germany to the UK: bridging the gap requires someone who will sit with the specific business, find the one process worth automating, and stay until the work moves differently. The fear signal — "we know we must act and can't get it to stick" — recurs across these markets precisely because tool adoption and process change are different problems. Spain has crossed the adoption threshold faster than its reputation suggests. It has not crossed the integration threshold.

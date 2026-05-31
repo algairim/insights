@@ -1,0 +1,7 @@
+# The AI Operating Model
+
+`2026 May 31`
+
+[IBM's Think 2026 research](disclaimer.md) is most often cited for its 16% scaling statistic, but the more useful finding is its diagnosis of why. The organisations that scale AI are not the ones with better models or bigger budgets. They are the ones that built an operating model: a set of four decisions about which process is being automated, who owns the outcome, where the data comes from, and how success is measured. IBM sells this as a platform at enterprise scale. For a ten-person business, it is four questions answered by a person at a desk. The questions are identical. The platform is not required.
+
+The operating model is an organisational design concept, not a technical one. It asks: who is accountable when the AI output is wrong? Who updates the prompt when the business changes? What does a human do with the result, and what is the escalation path for the exceptions the AI cannot handle? [The Gartner survey data](disclaimer.md) shows the consequence of skipping these decisions: 80% of organisations cut staff, the AI ran, and the ROI did not appear — because the redesigned process that would have captured the value was never built. The four questions are not a methodology. They are the minimum surface area of a decision that has to be made somewhere, by someone, before the tool does anything useful.

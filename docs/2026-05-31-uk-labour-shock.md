@@ -1,0 +1,7 @@
+# UK Labour Shock
+
+`2026 May 31`
+
+[Morgan Stanley's January 2026 survey](disclaimer.md) of firms with at least one year of operational AI found that UK employers had reduced net headcount by approximately 8% over twelve months — double the developed-world average and the highest figure among the US, Japan, Germany, and Australia. Bloomberg ran the result under "AI Job Cuts Hit Britain Hardest." The headline buried the more useful finding, which is in the seniority breakdown: the roles being cut are not entry-level clerical. They are the two-to-five-year experience band — the people who hold the institutional memory of how the work actually gets done, and who are one cycle away from developing genuine senior judgement.
+
+The structural anomaly is that UK and US firms deployed AI in the same functions and reported the same 11.5% productivity gains. UK firms converted the gain into headcount cuts. US firms converted it into capacity expansion. Same technology, different management decision. [Half of UK executives told Bloomberg in April 2026 they expected AI-driven headcount reductions within a decade](disclaimer.md). The Sovereign AI Fund, the NHS procurement frameworks, and the King's Speech AI regulation bill are all downstream responses to this single January finding. For any business deploying AI, the operating question is not about pace. It is about what the productivity gain is being spent on — and whether the institutional knowledge being traded for it can be rebuilt once it is gone.

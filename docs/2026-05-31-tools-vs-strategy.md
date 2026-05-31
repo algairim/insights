@@ -1,0 +1,5 @@
+# Tools vs. Strategy
+
+`2026 May 31`
+
+[The average US small business runs five AI tools](disclaimer.md), most without a coherent strategy connecting them. [Half of UK firms now use AI](disclaimer.md) but only one in nine has changed how work actually moves. [Spain leads Europe on digitisation pressure](disclaimer.md) while the smallest firms sit below 9% meaningful adoption. [IBM names the cause at scale](disclaimer.md): only 16% of enterprise AI has scaled, and the gap is not technical — the organisations stuck in the 84% have tools, often significant ones, but no operating model determining which process the tool is applied to, who is responsible for the outcome, or how the result is measured. [AI-accelerated shadow IT](disclaimer.md) is amplifying the problem: staff adopt faster than governance forms, producing a proliferating tool inventory with no central visibility. Buying a better tool does not advance a business that has not yet decided what problem it is solving. The tool list is the visible evidence that the strategy conversation has not happened yet.

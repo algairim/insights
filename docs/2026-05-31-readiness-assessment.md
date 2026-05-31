@@ -1,0 +1,9 @@
+# The Readiness Assessment
+
+`2026 May 31`
+
+The AI readiness assessment has become a standard first step for organisations evaluating deployment, and its logic follows directly from the failure statistics. [MIT's GenAI Divide research](disclaimer.md) found that over 95% of enterprise generative AI pilots delivered little or no measurable return, and fewer than 5% moved anything custom into production. The assessment exists to predict, in advance, which side of that divide a business will land on — not "which AI should we buy" but "are we the kind of organisation where this will stick." Those are different questions and they produce entirely different conversations.
+
+A maturity model gives a business a position on a ladder, from ad hoc experimentation through operational embedding to transformational redesign. The practical value is not the label but the specificity: a business that knows it sits at the foundational rung knows its next move should not be a flagship deployment but the unglamorous work of reaching the next rung. The empirical case is strong — low-maturity organisations keep about one in five AI projects operational past three years; high-maturity organisations keep nearly half.
+
+The dimensions assessed consistently cover six areas: data quality and accessibility, infrastructure, skills and AI literacy, leadership and culture, use-case clarity, and governance. Scoring these independently is what makes the exercise diagnostic rather than decorative. A small professional firm might score well on leadership and use-case clarity and fail badly on data quality and governance — and that profile points directly at what must be done first. In a market where every vendor is pitching tools, the assessor who scores honestly and occasionally tells a client they are not ready yet earns the right to be believed about everything else.
