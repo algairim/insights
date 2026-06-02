@@ -5,6 +5,20 @@ Synthesis layer across recent findings. Each article distils a major finding, tr
 ## Index
 
 <!-- ARTICLES START -->
+`2026 June 2`
+- [[↗]](docs/2026-06-02-information-work-exposure.md) The work most exposed is the desk job, not the trade
+- [[↗]](docs/2026-06-02-physical-ai-robotics.md) The model that learned text is being retrained to move
+- [[↗]](docs/2026-06-02-agents-in-the-os.md) Agents are becoming part of the operating system, not an app you choose
+- [[↗]](docs/2026-06-02-open-weights-frontier.md) Open-weight models reached the frontier; the meter is no longer the only option
+- [[↗]](docs/2026-06-02-verification-tax.md) Generation is nearly free; checking the output is the cost no one invoices
+- [[↗]](docs/2026-06-02-multichannel-single-stock.md) One finite thing sold through channels that each think they own it
+- [[↗]](docs/2026-06-02-long-tail-sectors.md) AI reached the hands-on businesses that assumed it was for someone else
+- [[↗]](docs/2026-06-02-forgeable-signals.md) When proof becomes free to fake, trust moves to the procedure
+- [[↗]](docs/2026-06-02-human-hour-value.md) When the machine's hour costs nothing, the human hour needs a reason
+- [[↗]](docs/2026-06-02-why-ai-refuses.md) The model's refusals come from principles a lab wrote, not you
+- [[↗]](docs/2026-06-02-data-governance-floor.md) AI launders bad data into confident answers unless the catalogue comes first
+- [[↗]](docs/2026-06-02-permanent-beta.md) The tools never stop changing; adopt the habit, not the version
+
 `2026 May 31`
 - [[↗]](docs/2026-05-31-ai-adoption-reality.md) Only 16% of organisations scale AI. The rest run pilots.
 - [[↗]](docs/2026-05-31-ai-layoff-trap.md) The firms that cut hardest got the same ROI as those that didn't.
