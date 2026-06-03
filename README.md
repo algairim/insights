@@ -5,6 +5,20 @@ Synthesis layer across recent findings. Each article distils a major finding, tr
 ## Index
 
 <!-- ARTICLES START -->
+`2026 June 3`
+- [[↗]](docs/2026-06-03-the-production-gap.md) The demo worked; it never reached production, and the gap is the whole story
+- [[↗]](docs/2026-06-03-buying-ai.md) The questions to ask an AI vendor before you sign
+- [[↗]](docs/2026-06-03-ai-on-data-you-cannot-expose.md) You can run AI on sensitive data without ever exposing it
+- [[↗]](docs/2026-06-03-formation-versus-information.md) AI hands you the answer and skips the part that made you good
+- [[↗]](docs/2026-06-03-the-customer-you-already-won.md) The cheapest customer to win is the one you already won
+- [[↗]](docs/2026-06-03-healthcare-back-office.md) Healthcare's AI dividend lands in the paperwork, not the diagnosis
+- [[↗]](docs/2026-06-03-ai-priced-by-usage.md) Your AI bill now moves with how much you use it
+- [[↗]](docs/2026-06-03-falling-cost-of-running-ai.md) The cost of running AI keeps falling, and most never touch the levers
+- [[↗]](docs/2026-06-03-competence-on-someone-elses-server.md) When the skill that makes you effective lives on someone else's server
+- [[↗]](docs/2026-06-03-the-slack-that-survives-the-shock.md) The slack you cut to save money was what survived the shock
+- [[↗]](docs/2026-06-03-not-a-fad-you-can-wait-out.md) The money says AI is not a fad you can wait out
+- [[↗]](docs/2026-06-03-managing-a-workforce-of-agents.md) Your next hire might be an agent; someone still has to manage it
+
 `2026 June 2`
 - [[↗]](docs/2026-06-02-information-work-exposure.md) The work most exposed is the desk job, not the trade
 - [[↗]](docs/2026-06-02-physical-ai-robotics.md) The model that learned text is being retrained to move
