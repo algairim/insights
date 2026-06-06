@@ -2,6 +2,8 @@
 
 `2026 June 2`
 
+![The model doesn't fix bad data. It launders it.](2026-06-02-data-governance-floor-pipeline.svg)
+
 The glamorous part of AI is the model. The part that decides whether it works is the data underneath it.
 
 [A deployment is only auditable and honest if there is a catalogue, lineage, and policy under it](disclaimer.md) — a record of what data exists, where it came from, and who is allowed to use it. Without that, [bad data upstream simply becomes bad AI downstream](disclaimer.md). The model does not fix the mess. It launders it into confident-sounding answers.

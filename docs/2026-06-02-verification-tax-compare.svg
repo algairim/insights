@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" font-family="monospace">
+  <rect width="900" height="320" fill="#0d1117"/>
+
+  <text x="30" y="37" font-size="19" font-weight="bold" fill="#f0f6fc" stroke="none">The AI moved the cost. It didn&#x27;t remove it.</text>
+  <text x="30" y="59" font-size="12.5" fill="#8b949e" stroke="none">Generation scales to any volume. Verification is still bounded by the number of human hours available.</text>
+
+  <!-- Left panel: Generation -->
+  <rect x="30" y="85" width="400" height="185" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+  <text x="230" y="105" text-anchor="middle" font-size="15" font-weight="bold" fill="#58a6ff" stroke="none">Generation</text>
+  <text x="230" y="142" text-anchor="middle" font-size="28" font-weight="bold" fill="#f0f6fc" stroke="none">100 outputs</text>
+  <text x="230" y="164" text-anchor="middle" font-size="13" fill="#8b949e" stroke="none">per minute, near-zero cost</text>
+  <text x="55" y="196" font-size="12.5" fill="#8b949e" stroke="none">Contract drafts, email replies, data extracts</text>
+  <text x="55" y="218" font-size="12.5" fill="#8b949e" stroke="none">Scales with volume at no extra cost</text>
+  <text x="55" y="250" font-size="12.5" font-weight="bold" fill="#3fb950" stroke="none">Bottleneck: none</text>
+
+  <!-- Right panel: Verification -->
+  <rect x="470" y="85" width="400" height="185" rx="8" fill="#1c1407" stroke="#f0883e" stroke-width="2"/>
+  <text x="670" y="105" text-anchor="middle" font-size="15" font-weight="bold" fill="#f0883e" stroke="none">Verification</text>
+  <text x="670" y="142" text-anchor="middle" font-size="28" font-weight="bold" fill="#f0f6fc" stroke="none">Still 100 reviews</text>
+  <text x="670" y="164" text-anchor="middle" font-size="13" fill="#8b949e" stroke="none">one per reviewer-hour, real salary</text>
+  <text x="495" y="196" font-size="12.5" fill="#8b949e" stroke="none">Each output still needs a human eye</text>
+  <text x="495" y="218" font-size="12.5" fill="#8b949e" stroke="none">Does not scale with generation volume</text>
+  <text x="495" y="250" font-size="12.5" font-weight="bold" fill="#f0883e" stroke="none">Bottleneck: every time</text>
+
+  <text x="450" y="298" text-anchor="middle" font-size="12.5" fill="#8b949e" stroke="none">The businesses getting value from AI are the ones that budgeted for the verification, not just the generation.</text>
+</svg>

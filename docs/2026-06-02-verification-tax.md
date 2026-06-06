@@ -2,6 +2,8 @@
 
 `2026 June 2`
 
+![Generation got cheap. Checking didn't.](2026-06-02-verification-tax-compare.svg)
+
 There is a cost in every AI deployment that no one puts on the invoice.
 
 Generating the output is nearly free now. Reading it carefully enough to know whether it is right is not. [That gap has a name](disclaimer.md) — the work moves from producing to checking, and checking does not scale the way generation does. A model can draft a hundred contracts in a minute. A human still has to read them.

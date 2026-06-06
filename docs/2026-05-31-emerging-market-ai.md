@@ -1,7 +1,0 @@
-# Emerging Market AI
-
-`2026 May 31`
-
-The AI story told in Western media centres on a handful of US labs and European regulators. The actual deployment pace is moving fastest where that story rarely looks. [India's IndiaAI Mission 2.0](disclaimer.md) framed a "UPI for AI" stack on the model of the Unified Payments Interface and estimated that AI lending could [unlock $170 billion in MSME credit](disclaimer.md) currently inaccessible to 60 million small businesses. [Nigeria put 35 ministries on WhatsApp using a Llama-based chatbot](disclaimer.md), bypassing the need for web infrastructure entirely. [Latin America is adopting AI faster than its digital infrastructure weight predicts](disclaimer.md), while [WEF research maps a specific value gap](disclaimer.md) where Latin American SMEs capture almost none of the efficiency gains flowing to larger organisations. Africa's [AI startup count doubled in three years](disclaimer.md), with [Amini, Foxconn, and Bull building modular sovereign AI infrastructure continent-wide](disclaimer.md).
-
-The practical relevance is that emerging markets define the ceiling for what is achievable with accessible tools and constrained budgets. If Nigeria can automate 35 ministries over WhatsApp, any SME can automate its customer enquiry routing. If the Philippines is retraining over a million BPO workers into AI supervisors using public funding, a small firm anywhere can redesign one role. The emerging markets are not just geopolitically interesting. They are the proof that the constraint is not the technology and never was.

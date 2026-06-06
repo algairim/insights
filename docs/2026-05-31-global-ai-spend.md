@@ -1,7 +1,0 @@
-# Global AI Spending Inflection
-
-`2026 May 31`
-
-[Gartner's May 2026 forecast](disclaimer.md) placed worldwide AI spending at $2.59 trillion for 2026, a 47% increase year-on-year. The composition matters more than the headline: AI infrastructure accounts for over 45% of the total, AI-optimised server spending is on track to triple over five years, and the AI model line alone is growing 110% in 2026. Gartner's analyst named a structural shift: spending has historically been driven by technology companies and hyperscalers; 2026 is the inflection year when enterprise budgets crowd in. The market has moved from experimentation to procurement. Cloud providers have already booked the GPU capital expenditure. The amortisation period locks in pricing. [Dell shipped more AI servers than PCs in May 2026 with a $51 billion backlog](disclaimer.md). The question of whether this technology is real has been answered by the capex.
-
-The market signal most relevant to any practitioner is not the trillion-dollar number. It is that enterprises are shifting from test-and-learn budgets to multi-year committed procurement. [Anthropic crossed $45 billion ARR in May 2026](disclaimer.md). [KPMG deployed Claude to 276,000 staff](disclaimer.md). [IBM, Salesforce, ServiceNow, and SAP all shipped major platform updates](disclaimer.md) framed as five-year infrastructure commitments. When the largest organisations are signing long-term AI deals, the organisations one tier below are under pressure to show their own plans. That pressure is where advisory demand originates.

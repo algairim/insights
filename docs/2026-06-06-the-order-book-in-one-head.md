@@ -1,0 +1,9 @@
+# The Order Book That Lives in One Head
+
+`2026 June 6`
+
+Across the businesses that make things to order — a [bespoke blade](disclaimer.md), a [hand-forged gate](disclaimer.md), a [year-long bronze casting](disclaimer.md), a [pair of boots with a five-year waitlist](disclaimer.md) — the same gap appears with uncanny regularity. The work is world-class. The order book is in the maker's memory. There is a deposit here, a balance owed there, a customer who said yes and is waiting to hear when, and none of it is written anywhere a second person could read.
+
+This is not a record-keeping failure; it is a structural feature of how craft businesses grow. The thing that makes them valuable — judgement built over decades — is the same thing that keeps the pipeline trapped in one skull. The [skill held by one place](disclaimer.md) concept names the deeper version: efficiency concentrates capability until the concentration itself becomes the fragility. When the maker is ill, away, or simply busy at the bench, the business cannot tell a customer where their order stands.
+
+What is striking is how little technology this needs. The making cannot be automated and should not be. But the queue, the deposit, the promised date, the stage each commission has reached — that is exactly the structured, repetitive coordination software has handled for decades. The barrier was never capability. It is that the person who holds the pipeline has never had a quiet afternoon to hand it over, and has quietly concluded that no system could hold what they hold. The [tacit knowledge trap](2026-05-31-tacit-knowledge-trap.md) is the wider pattern: the most important knowledge in the business is the least written down. For a maker, the first thing to automate is not the craft. It is the order book.

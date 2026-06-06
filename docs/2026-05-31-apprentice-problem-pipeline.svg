@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" font-family="monospace">
+  <defs>
+    <marker id="arrowGrey" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#30363d"/>
+    </marker>
+    <marker id="arrowOrange" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#f0883e"/>
+    </marker>
+  </defs>
+  <rect width="900" height="360" fill="#0d1117"/>
+
+  <text x="30" y="35" font-size="19" font-weight="bold" fill="#f0f6fc" stroke="none">The training ground was the bottom rung</text>
+  <text x="30" y="57" font-size="11.5" fill="#8b949e" stroke="none">AI is deployed most effectively at the entry-level tasks professions learn on — and those tasks are the first to go</text>
+
+  <!-- Row 1: How expertise developed -->
+  <text x="30" y="84" font-size="12" font-weight="bold" fill="#3fb950" stroke="none">Original path</text>
+
+  <!-- connectors drawn FIRST so source boxes cover their start and target borders tuck over the tips -->
+  <line x1="180" y1="124" x2="209" y2="124" stroke="#30363d" stroke-width="2" marker-end="url(#arrowGrey)"/>
+  <line x1="376" y1="124" x2="404" y2="124" stroke="#30363d" stroke-width="2" marker-end="url(#arrowGrey)"/>
+  <line x1="634" y1="124" x2="663" y2="124" stroke="#30363d" stroke-width="2" marker-end="url(#arrowGrey)"/>
+  <line x1="180" y1="225" x2="209" y2="225" stroke="#f0883e" stroke-width="2" marker-end="url(#arrowOrange)"/>
+  <line x1="376" y1="225" x2="404" y2="225" stroke="#f0883e" stroke-width="2" marker-end="url(#arrowOrange)"/>
+  <line x1="634" y1="225" x2="663" y2="225" stroke="#30363d" stroke-width="2" marker-end="url(#arrowGrey)"/>
+  <rect x="30" y="93" width="150" height="62" rx="8" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+  <text x="105" y="119" text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Graduate entry</text>
+  <text x="105" y="139" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">no experience yet</text>
+
+
+  <rect x="211" y="93" width="165" height="62" rx="8" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+  <text x="293" y="114" text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Junior tasks</text>
+  <text x="293" y="132" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">doc review, drafts</text>
+  <text x="293" y="148" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">basic analysis</text>
+
+
+  <rect x="406" y="93" width="228" height="62" rx="8" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+  <text x="520" y="114" text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Experience band</text>
+  <text x="520" y="132" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">2&#x2013;5 years, pattern recognition</text>
+  <text x="520" y="148" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">anomaly detection, judgement</text>
+
+
+  <rect x="665" y="93" width="205" height="62" rx="8" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+  <text x="768" y="114" text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Senior judgement</text>
+  <text x="768" y="132" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">depth, hard problems</text>
+  <text x="768" y="148" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">institutional knowledge</text>
+
+  <!-- Row 2: With AI automation -->
+  <text x="30" y="186" font-size="12" font-weight="bold" fill="#f0883e" stroke="none">After AI automation</text>
+
+  <rect x="30" y="194" width="150" height="62" rx="8" fill="#161b22" stroke="#f0883e" stroke-width="1.5"/>
+  <text x="105" y="220" text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Graduate entry</text>
+  <text x="105" y="240" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">no experience yet</text>
+
+
+  <rect x="211" y="194" width="165" height="62" rx="8" fill="#1c1407" stroke="#f0883e" stroke-width="2"/>
+  <text x="293" y="215" text-anchor="middle" font-size="13" font-weight="600" fill="#f0883e" stroke="none">AI handles tasks</text>
+  <text x="293" y="233" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">same work, no human</text>
+  <text x="293" y="249" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">in the learning seat</text>
+
+
+  <rect x="406" y="194" width="228" height="62" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <text x="520" y="215" text-anchor="middle" font-size="13" font-weight="600" fill="#8b949e" stroke="none">Experience gap</text>
+  <text x="520" y="233" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">2&#x2013;5 year band missing</text>
+  <text x="520" y="249" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">nobody trained here</text>
+
+
+  <rect x="665" y="194" width="205" height="62" rx="8" fill="#161b22" stroke="#f0883e" stroke-width="1.5"/>
+  <text x="768" y="215" text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Senior judgement</text>
+  <text x="768" y="233" text-anchor="middle" font-size="11" fill="#8b949e" stroke="none">depth still present</text>
+  <text x="768" y="249" text-anchor="middle" font-size="11" fill="#f0883e" stroke="none">no successors in pipeline</text>
+
+  <!-- Caption box -->
+  <rect x="30" y="286" width="840" height="50" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="308" text-anchor="middle" font-size="12.5" fill="#c9d1d9" stroke="none">The organisations most exposed are not the ones that automate aggressively.</text>
+  <text x="450" y="328" text-anchor="middle" font-size="12.5" fill="#c9d1d9" stroke="none">They are the ones that automate without redesigning the learning path.</text>
+</svg>

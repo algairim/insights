@@ -1,0 +1,9 @@
+# When the Customer Sends an Agent
+
+`2026 June 6`
+
+For most of commercial history the buyer showed up in person, or at least in the inbox. That assumption is quietly ending. [Agentic commerce has already arrived in Latin America](disclaimer.md), where a buyer can delegate the search, the selection, and the payment to software. [Amazon retired its shopping assistant and shipped one built to act](disclaimer.md), [Meta put a business agent inside every WhatsApp Business account worldwide](disclaimer.md), and [regulated bank data is being wired straight into chat assistants](disclaimer.md). The [study of agentic commerce](disclaimer.md) lays out the mechanics: the agent browses, compares, and buys on the customer's behalf.
+
+The consequence for a small business is not abstract. When the buyer is an agent, the things a good shop competed on — the warm greeting, the upsell, the relationship that brought someone back — never get a chance to operate. The [agent that shops for you](disclaimer.md) concept puts the sharp edge on it: when no one actually meets, the unmeasurable cannot compete. An agent ranks on price, availability, and structured data. It does not feel loyal. The [end of the regular](disclaimer.md) concept names what is lost — the shop that knew you, and that you returned to, dissolves when an intermediary transacts in your place.
+
+So the practical question for any business selling to consumers is whether it is legible to a machine. Is the price discoverable? Is the product described in structured terms an agent can parse? Is there a way to transact without a human on the other end at 11pm? The uncomfortable inversion is that the businesses proudest of their personal touch may be the least visible to the buyer of the near future — because the buyer has stopped showing up to be touched.

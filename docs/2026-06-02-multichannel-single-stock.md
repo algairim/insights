@@ -2,6 +2,8 @@
 
 `2026 June 2`
 
+![One resource. Four channels. No shared count.](2026-06-02-multichannel-single-stock-flow.svg)
+
 Read enough small businesses and the same shape keeps appearing.
 
 One finite thing — seats on a boat, a single harvest, hours on a court, a tray of something perishable — sold through several channels that each behave as if they own all of it. [A single vessel sells the same seats through four channels that each think the boat is theirs](disclaimer.md). [One harvest is sold every month with nobody counting what is left](disclaimer.md). [A pit sells at the counter and ships nationally with no shared count](disclaimer.md). [Six courts leak their quiet weekday hours unseen](disclaimer.md).

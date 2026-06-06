@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" font-family="monospace">
+  <defs>
+    <marker id="arrowGreen" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#3fb950"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#58a6ff"/>
+    </marker>
+    <marker id="arrowPurple" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#a371f7"/>
+    </marker>
+    <marker id="arrowOrange" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#f0883e"/>
+    </marker>
+  </defs>
+  <rect width="900" height="360" fill="#0d1117"/>
+
+  <text x="30" y="36" font-size="19" font-weight="bold" fill="#f0f6fc" stroke="none">From one model that does everything to many built for one field</text>
+  <text x="30" y="58" font-size="12.5" fill="#8b949e" stroke="none">The question is no longer which is best — it is which was built for work like yours</text>
+
+  <g transform="translate(0,14)">
+
+  <!-- Source block: general-purpose era -->
+  <rect x="40" y="122" width="200" height="88" rx="8" fill="#161b22" stroke="#8b949e" stroke-width="1.5"/>
+  <text x="140" y="156" text-anchor="middle" font-size="14" font-weight="600" fill="#f0f6fc" stroke="none">General-purpose</text>
+  <text x="140" y="176" text-anchor="middle" font-size="14" font-weight="600" fill="#f0f6fc" stroke="none">frontier model</text>
+  <text x="140" y="193" text-anchor="middle" font-size="11.5" fill="#8b949e" stroke="none">2021 – 2024</text>
+
+  <!-- Feed line to divergence point -->
+  <line x1="240" y1="166" x2="368" y2="166" stroke="#8b949e" stroke-width="2"/>
+
+  <!-- Divergence node -->
+  <circle cx="378" cy="166" r="10" fill="#f0b72f" stroke="none"/>
+
+  <!-- Fan lines from divergence node to the vertical MIDDLE of each box's left edge -->
+  <!-- Box left edge x=580; box centres y=87, 139, 191, 243 -->
+  <line x1="386" y1="160" x2="577" y2="87"  stroke="#3fb950" stroke-width="1.5" marker-end="url(#arrowGreen)"/>
+  <line x1="387" y1="164" x2="577" y2="139" stroke="#58a6ff" stroke-width="1.5" marker-end="url(#arrowBlue)"/>
+  <line x1="387" y1="168" x2="577" y2="191" stroke="#a371f7" stroke-width="1.5" marker-end="url(#arrowPurple)"/>
+  <line x1="386" y1="172" x2="577" y2="243" stroke="#f0883e" stroke-width="1.5" marker-end="url(#arrowOrange)"/>
+
+  <!-- Specialist boxes — colored dark-tinted fills, 10px gap between each -->
+  <rect x="580" y="66"  width="270" height="42" rx="8" fill="#0f2419" stroke="#3fb950" stroke-width="1.5"/>
+  <text x="715" y="83"  text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Life sciences</text>
+  <text x="715" y="100" text-anchor="middle" font-size="11"   fill="#3fb950"  stroke="none">GPT-Rosalind (OpenAI)</text>
+
+  <rect x="580" y="118" width="270" height="42" rx="8" fill="#0d1e31" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="715" y="135" text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Healthcare</text>
+  <text x="715" y="152" text-anchor="middle" font-size="11"   fill="#58a6ff"  stroke="none">Mayo &#xB7; Microsoft frontier model</text>
+
+  <rect x="580" y="170" width="270" height="42" rx="8" fill="#1c1230" stroke="#a371f7" stroke-width="1.5"/>
+  <text x="715" y="187" text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Legal &#x26; compliance</text>
+  <text x="715" y="204" text-anchor="middle" font-size="11"   fill="#a371f7"  stroke="none">domain-trained agents</text>
+
+  <rect x="580" y="222" width="270" height="42" rx="8" fill="#2b1600" stroke="#f0883e" stroke-width="1.5"/>
+  <text x="715" y="239" text-anchor="middle" font-size="13" font-weight="600" fill="#f0f6fc" stroke="none">Industrial operations</text>
+  <text x="715" y="256" text-anchor="middle" font-size="11"   fill="#f0883e"  stroke="none">sector-embedded models</text>
+
+  <!-- Year label -->
+  <text x="580" y="278" font-size="11.5" fill="#8b949e" stroke="none">2025 onwards</text>
+
+  <!-- Caption box -->
+  <rect x="30" y="290" width="840" height="38" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="450" y="307" text-anchor="middle" font-size="10" fill="#c9d1d9" stroke="none">In regulated or domain-heavy tasks, the specialist model outperforms the general one — and can be governed against field standards.</text>
+  <text x="450" y="322" text-anchor="middle" font-size="10" fill="#c9d1d9" stroke="none">The general assistant remains the right default for general work.</text>
+  </g>
+</svg>
