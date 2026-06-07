@@ -1,4 +1,4 @@
-# Who Pays When the AI Is Wrong
+<img src="../svg/2026-06-06-who-pays-when-the-ai-is-wrong-header.svg" width="100%">
 
 `2026 June 6`
 

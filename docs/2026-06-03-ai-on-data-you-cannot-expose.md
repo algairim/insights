@@ -1,4 +1,4 @@
-# You can use AI on data you're not allowed to expose
+<img src="../svg/2026-06-03-ai-on-data-you-cannot-expose-header.svg" width="100%">
 
 `2026 June 3`
 

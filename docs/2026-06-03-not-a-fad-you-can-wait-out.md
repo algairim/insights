@@ -1,4 +1,4 @@
-# The money says AI is not a fad you can wait out
+<img src="../svg/2026-06-03-not-a-fad-you-can-wait-out-header.svg" width="100%">
 
 `2026 June 3`
 

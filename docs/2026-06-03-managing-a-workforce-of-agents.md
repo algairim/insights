@@ -1,4 +1,4 @@
-# Your next hire might be an agent. Someone still has to manage it.
+<img src="../svg/2026-06-03-managing-a-workforce-of-agents-header.svg" width="100%">
 
 `2026 June 3`
 

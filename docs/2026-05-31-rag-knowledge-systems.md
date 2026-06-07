@@ -1,4 +1,4 @@
-# RAG and Business Knowledge Systems
+<img src="../svg/2026-05-31-rag-knowledge-systems-header.svg" width="100%">
 
 `2026 May 31`
 

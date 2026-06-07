@@ -1,4 +1,4 @@
-# AI hands you the answer and skips the part that made you good
+<img src="../svg/2026-06-03-formation-versus-information-header.svg" width="100%">
 
 `2026 June 3`
 

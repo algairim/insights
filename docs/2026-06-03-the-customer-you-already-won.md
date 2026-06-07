@@ -1,4 +1,4 @@
-# The cheapest customer to win is the one you already won
+<img src="../svg/2026-06-03-the-customer-you-already-won-header.svg" width="100%">
 
 `2026 June 3`
 

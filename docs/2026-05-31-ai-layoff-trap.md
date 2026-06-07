@@ -1,4 +1,4 @@
-# The Layoff Trap
+<img src="../svg/2026-05-31-ai-layoff-trap-header.svg" width="100%">
 
 `2026 May 31`
 

@@ -1,8 +1,8 @@
-# The Agent Sprawl That Needs a Control Plane
+<img src="../svg/2026-06-06-the-agent-sprawl-control-plane-header.svg" width="100%">
 
 `2026 June 6`
 
-![The first agent is an assistant. The tenth is a workforce nobody hired.](2026-06-06-the-agent-sprawl-control-plane-escalation.svg)
+![The first agent is an assistant. The tenth is a workforce nobody hired.](../svg/2026-06-06-the-agent-sprawl-control-plane-escalation.svg)
 
 The first agent a business deploys feels like a clever assistant. The tenth feels like an unmanaged workforce nobody hired. The vendors have noticed the problem they helped create: [SAP shipped a command centre for agent sprawl](disclaimer.md), [Itential built governance into infrastructure agents at the point they are created](disclaimer.md), and [Microsoft packaged a management layer for agents across an organisation](disclaimer.md). When the big platforms race to sell control planes, it is a sign the thing being controlled has already gotten loose.
 

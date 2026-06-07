@@ -1,8 +1,8 @@
-# The cost of running AI keeps falling, and most never touch the levers
+<img src="../svg/2026-06-03-falling-cost-of-running-ai-header.svg" width="100%">
 
 `2026 June 3`
 
-![Five levers that cut the cost of running AI](2026-06-03-falling-cost-of-running-ai-bars.svg)
+![Five levers that cut the cost of running AI](../svg/2026-06-03-falling-cost-of-running-ai-bars.svg)
 
 There is a persistent belief that AI is expensive to run at scale. It was, briefly. The cost of a given task has been dropping fast, and the drop is driven by techniques most businesses never hear about because they sit below the surface of the tools they use.
 

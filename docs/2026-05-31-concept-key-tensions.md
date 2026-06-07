@@ -1,4 +1,4 @@
-# Key Concept Tensions
+<img src="../svg/2026-05-31-concept-key-tensions-header.svg" width="100%">
 
 `2026 May 31`
 

@@ -1,4 +1,4 @@
-# The Agent Becomes Infrastructure
+<img src="../svg/2026-06-02-agents-in-the-os-header.svg" width="100%">
 
 `2026 June 2`
 

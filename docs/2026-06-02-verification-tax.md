@@ -1,8 +1,8 @@
-# Generation Got Cheap. Checking Didn't.
+<img src="../svg/2026-06-02-verification-tax-header.svg" width="100%">
 
 `2026 June 2`
 
-![Generation got cheap. Checking didn't.](2026-06-02-verification-tax-compare.svg)
+![Generation got cheap. Checking didn't.](../svg/2026-06-02-verification-tax-compare.svg)
 
 There is a cost in every AI deployment that no one puts on the invoice.
 

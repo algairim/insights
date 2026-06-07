@@ -1,4 +1,4 @@
-# Your AI bill now moves with how much you use it
+<img src="../svg/2026-06-03-ai-priced-by-usage-header.svg" width="100%">
 
 `2026 June 3`
 

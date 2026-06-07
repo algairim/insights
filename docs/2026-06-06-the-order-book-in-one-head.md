@@ -1,4 +1,4 @@
-# The Order Book That Lives in One Head
+<img src="../svg/2026-06-06-the-order-book-in-one-head-header.svg" width="100%">
 
 `2026 June 6`
 

@@ -1,4 +1,4 @@
-# Why Your AI Says No
+<img src="../svg/2026-06-02-why-ai-refuses-header.svg" width="100%">
 
 `2026 June 2`
 

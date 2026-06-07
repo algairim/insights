@@ -1,8 +1,8 @@
-# Your AI Is Only as Honest as Your Data
+<img src="../svg/2026-06-02-data-governance-floor-header.svg" width="100%">
 
 `2026 June 2`
 
-![The model doesn't fix bad data. It launders it.](2026-06-02-data-governance-floor-pipeline.svg)
+![The model doesn't fix bad data. It launders it.](../svg/2026-06-02-data-governance-floor-pipeline.svg)
 
 The glamorous part of AI is the model. The part that decides whether it works is the data underneath it.
 

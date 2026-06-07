@@ -1,4 +1,4 @@
-# No-Code Automation
+<img src="../svg/2026-05-31-no-code-automation-header.svg" width="100%">
 
 `2026 May 31`
 

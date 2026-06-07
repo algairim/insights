@@ -1,4 +1,4 @@
-# The Back-Office Problem
+<img src="../svg/2026-05-31-back-office-automation-header.svg" width="100%">
 
 `2026 May 31`
 

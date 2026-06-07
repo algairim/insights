@@ -1,4 +1,4 @@
-# When Proof Becomes Free, It Stops Proving
+<img src="../svg/2026-06-02-forgeable-signals-header.svg" width="100%">
 
 `2026 June 2`
 

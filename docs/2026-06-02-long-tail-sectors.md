@@ -1,4 +1,4 @@
-# The Businesses That Thought They Were Safe From It
+<img src="../svg/2026-06-02-long-tail-sectors-header.svg" width="100%">
 
 `2026 June 2`
 

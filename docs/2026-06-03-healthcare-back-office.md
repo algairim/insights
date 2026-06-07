@@ -1,4 +1,4 @@
-# Healthcare's AI dividend is landing in the back office, not the diagnosis
+<img src="../svg/2026-06-03-healthcare-back-office-header.svg" width="100%">
 
 `2026 June 3`
 

@@ -1,4 +1,4 @@
-# Compliance Is Going Digital-Mandatory
+<img src="../svg/2026-06-06-compliance-going-digital-mandatory-header.svg" width="100%">
 
 `2026 June 6`
 

@@ -1,4 +1,4 @@
-# AI Is Leaving the Screen
+<img src="../svg/2026-06-02-physical-ai-robotics-header.svg" width="100%">
 
 `2026 June 2`
 

@@ -1,6 +1,8 @@
-# Insights
+<img src="svg/insights-header.svg" width="100%">
 
 Synthesis layer across recent findings. Each article distils a major finding, trend, or condition into short, readable paragraphs for anyone following where AI is going and what it means in practice. Every claim links to the detailed source article already in the project.
+
+See also: [Blueprints](https://github.com/algairim/blueprints/blob/main/README.md)
 
 ## Index
 

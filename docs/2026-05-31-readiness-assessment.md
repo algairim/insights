@@ -1,4 +1,4 @@
-# The Readiness Assessment
+<img src="../svg/2026-05-31-readiness-assessment-header.svg" width="100%">
 
 `2026 May 31`
 

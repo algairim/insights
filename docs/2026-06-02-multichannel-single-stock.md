@@ -1,8 +1,8 @@
-# The Channel That Doesn't Know About the Other Channels
+<img src="../svg/2026-06-02-multichannel-single-stock-header.svg" width="100%">
 
 `2026 June 2`
 
-![One resource. Four channels. No shared count.](2026-06-02-multichannel-single-stock-flow.svg)
+![One resource. Four channels. No shared count.](../svg/2026-06-02-multichannel-single-stock-flow.svg)
 
 Read enough small businesses and the same shape keeps appearing.
 

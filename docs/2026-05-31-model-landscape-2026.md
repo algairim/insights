@@ -1,8 +1,8 @@
-# The 2026 Model Landscape
+<img src="../svg/2026-05-31-model-landscape-2026-header.svg" width="100%">
 
 `2026 May 31`
 
-![The 2026 model landscape: four tiers, one question](2026-05-31-model-landscape-2026-tiers.svg)
+![The 2026 model landscape: four tiers, one question](../svg/2026-05-31-model-landscape-2026-tiers.svg)
 
 The LLM provider landscape in 2026 has consolidated around four credible frontier tiers and fragmented dramatically everywhere else. At the closed frontier: OpenAI (GPT-5.5 and reasoning models), Anthropic (Claude Opus 4.8 with dynamic workflows), and Google (Gemini Omni, any-to-any multimodal). [The April 2026 frontier wave](disclaimer.md) saw GPT-5.5 and Claude Opus 4.7 arrive within days of each other. The marginal capability difference between them is smaller than the marginal difference between using either well versus using either poorly. The model is no longer the decision that matters most.
 

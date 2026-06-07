@@ -1,4 +1,4 @@
-# The Lock-In You Can't Easily Leave
+<img src="../svg/2026-06-06-the-lock-in-you-cant-leave-header.svg" width="100%">
 
 `2026 June 6`
 

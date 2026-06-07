@@ -1,8 +1,8 @@
-# AI Is Splitting the Workforce, Not Just Shrinking It
+<img src="../svg/2026-06-06-splitting-the-workforce-header.svg" width="100%">
 
 `2026 June 6`
 
-![AI splits the workforce, not just shrinks it](2026-06-06-splitting-the-workforce-divide.svg)
+![AI splits the workforce, not just shrinks it](../svg/2026-06-06-splitting-the-workforce-divide.svg)
 
 The headline story about AI and jobs is subtraction — roles cut, headcount down. The more durable story is division. [Gartner's read on the Australian workforce](disclaimer.md) is that AI is splitting it, not uniformly lifting it: the people who have learned to work with the tools pull ahead, and the gap between them and everyone else widens inside the same building, the same team, the same pay band.
 

@@ -1,4 +1,4 @@
-# Nothing Is Ever Finished Now
+<img src="../svg/2026-06-02-permanent-beta-header.svg" width="100%">
 
 `2026 June 2`
 

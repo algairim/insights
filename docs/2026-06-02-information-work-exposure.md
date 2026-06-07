@@ -1,4 +1,4 @@
-# The Exposed Surface Is Information Work
+<img src="../svg/2026-06-02-information-work-exposure-header.svg" width="100%">
 
 `2026 June 2`
 

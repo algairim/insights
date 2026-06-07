@@ -1,4 +1,4 @@
-# Quietly Worse in Your Language
+<img src="../svg/2026-06-06-quietly-worse-in-your-language-header.svg" width="100%">
 
 `2026 June 6`
 

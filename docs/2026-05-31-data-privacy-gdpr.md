@@ -1,4 +1,4 @@
-# Data Privacy and AI
+<img src="../svg/2026-05-31-data-privacy-gdpr-header.svg" width="100%">
 
 `2026 May 31`
 

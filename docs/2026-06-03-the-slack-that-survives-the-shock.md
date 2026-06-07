@@ -1,4 +1,4 @@
-# The slack you cut to save money was the thing that survived the shock
+<img src="../svg/2026-06-03-the-slack-that-survives-the-shock-header.svg" width="100%">
 
 `2026 June 3`
 

@@ -1,4 +1,4 @@
-# The AI Operating Model
+<img src="../svg/2026-05-31-ai-operating-model-header.svg" width="100%">
 
 `2026 May 31`
 

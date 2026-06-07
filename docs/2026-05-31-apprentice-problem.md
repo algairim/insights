@@ -1,8 +1,8 @@
-# The Apprentice Problem
+<img src="../svg/2026-05-31-apprentice-problem-header.svg" width="100%">
 
 `2026 May 31`
 
-![The training ground was the bottom rung](2026-05-31-apprentice-problem-pipeline.svg)
+![The training ground was the bottom rung](../svg/2026-05-31-apprentice-problem-pipeline.svg)
 
 [The concept of the apprentice who never arrives](disclaimer.md) names one of the most structurally important risks in the current AI adoption wave. AI systems are being deployed most effectively at the tasks that used to be the entry point into a profession: document review, first-draft writing, basic data analysis, initial code generation, standard client communications. These are the tasks a junior lawyer, analyst, designer, or engineer learned the craft on. They are also the tasks being automated first because they are the most obviously structured and the most easily benchmarked. The result is that organisations are removing the training ground for the next generation of experts while retaining the experts themselves. The saving is immediate. The cost is deferred — and it lands when the next genuinely hard problem arrives and nobody on the team has seen anything like it before.
 

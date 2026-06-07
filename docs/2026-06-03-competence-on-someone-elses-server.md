@@ -1,4 +1,4 @@
-# When your competence lives on someone else's server
+<img src="../svg/2026-06-03-competence-on-someone-elses-server-header.svg" width="100%">
 
 `2026 June 3`
 

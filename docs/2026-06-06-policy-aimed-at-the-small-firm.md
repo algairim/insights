@@ -1,4 +1,4 @@
-# The Policy Finally Aimed at the Small Firm
+<img src="../svg/2026-06-06-policy-aimed-at-the-small-firm-header.svg" width="100%">
 
 `2026 June 6`
 

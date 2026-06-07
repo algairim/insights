@@ -1,4 +1,4 @@
-# The Agentic Shift
+<img src="../svg/2026-05-31-agentic-shift-header.svg" width="100%">
 
 `2026 May 31`
 

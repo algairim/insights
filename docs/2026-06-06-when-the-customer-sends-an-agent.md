@@ -1,4 +1,4 @@
-# When the Customer Sends an Agent
+<img src="../svg/2026-06-06-when-the-customer-sends-an-agent-header.svg" width="100%">
 
 `2026 June 6`
 

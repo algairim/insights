@@ -1,4 +1,4 @@
-# Agentic AI Failures
+<img src="../svg/2026-05-31-agentic-ai-failures-header.svg" width="100%">
 
 `2026 May 31`
 

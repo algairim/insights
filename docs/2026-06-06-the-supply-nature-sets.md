@@ -1,4 +1,4 @@
-# When Nature Sets the Supply and You Plan by Feel
+<img src="../svg/2026-06-06-the-supply-nature-sets-header.svg" width="100%">
 
 `2026 June 6`
 

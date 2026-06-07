@@ -1,4 +1,4 @@
-# Tools vs. Strategy
+<img src="../svg/2026-05-31-tools-vs-strategy-header.svg" width="100%">
 
 `2026 May 31`
 

@@ -1,4 +1,4 @@
-# The Open Models Caught Up
+<img src="../svg/2026-06-02-open-weights-frontier-header.svg" width="100%">
 
 `2026 June 2`
 
