@@ -1,12 +1,24 @@
 <img src="svg/insights-header.svg" width="100%">
 
-Synthesis layer across recent findings. Each article distils a major finding, trend, or condition into short, readable paragraphs for anyone following where AI is going and what it means in practice. Every claim links to the detailed source article already in the project.
+Each article distils a major finding, trend, or condition into short, readable paragraphs for anyone following where AI is going and what it means in practice. Every claim links to the detailed source article already in the project.
 
 See also: [Blueprints](https://github.com/algairim/blueprints/blob/main/README.md)
 
 ## Index
 
 <!-- ARTICLES START -->
+`2026 June 9`
+- [[↗]](docs/2026-06-09-sovereign-ai-where-it-lives.md) Where your AI runs is becoming a choice, not a default
+- [[↗]](docs/2026-06-09-rules-depend-on-where-you-stand.md) The same AI is legal here and restricted there, and the map keeps moving
+- [[↗]](docs/2026-06-09-the-phone-is-still-the-front-door.md) Voice AI went mainstream, and the missed call is still the lost job
+- [[↗]](docs/2026-06-09-the-expiry-date-nobody-owns.md) Every certificate expires on a clock the business forgot it owns
+- [[↗]](docs/2026-06-09-agent-keys-nobody-tested-the-locks.md) You gave an agent access nobody security-tested
+- [[↗]](docs/2026-06-09-deployment-is-the-product.md) The money moved from selling AI software to deploying it
+- [[↗]](docs/2026-06-09-the-barrier-was-never-the-technology.md) AI adoption fails for reasons that were never technical
+- [[↗]](docs/2026-06-09-the-second-opinion-that-isnt-independent.md) When everyone runs the same model, the second opinion agrees by design
+- [[↗]](docs/2026-06-09-the-override-you-stopped-practising.md) The skill to catch the AI atrophies exactly when you need it
+- [[↗]](docs/2026-06-09-the-energy-bill-under-the-answer.md) Every answer has an energy bill, and someone downstream pays it
+
 `2026 June 6`
 - [[↗]](docs/2026-06-06-the-order-book-in-one-head.md) The maker is world-class; the order book lives in one memory
 - [[↗]](docs/2026-06-06-when-the-customer-sends-an-agent.md) When the buyer is an agent, the personal touch never gets to operate
